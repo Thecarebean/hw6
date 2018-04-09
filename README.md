@@ -19,4 +19,6 @@ elevator-american, lift-british
  3.тем не менее, elevator остается более полпулярным в Америке, чем в Великобритании.
  
  Часть 2.
- 
+ 1. 
+ ![](https://github.com/Thecarebean/hw6/blob/master/%D1%87%D0%B0%D1%81%D1%82%D1%8C21.png)
+
